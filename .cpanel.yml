@@ -1,4 +1,4 @@
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/chlq6328/public_html/www.jasonrouet.com
+    - export DEPLOYPATH=/home/chlq6328/public_html/
     - /bin/cp -R * $DEPLOYPATH
